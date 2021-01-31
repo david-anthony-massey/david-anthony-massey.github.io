@@ -1,0 +1,29 @@
+@font-face {
+  font-family: "Futura-pt-demi";
+  src: url("futura-pt-demi.otf");
+}
+
+@font-face {
+  font-family: "Inter-Regular";
+  src: url("Inter-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "EurostileNextLTPro";
+  src: url("EurostileNextLTPro-SmBd.otf");
+}
+
+@font-face {
+  font-family: "Canadian";
+  src: url("canadian.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "HELVETICA NEUE";
+  src: url("HELVETICA NEUE LT STD 65 MEDIUM.otf");
+}
+
+@font-face {
+  font-family: "Josefin Sans";
+  src: url("JosefinSans-Regular.ttf") format("truetype");
+}
